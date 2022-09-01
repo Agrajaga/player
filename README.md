@@ -2,6 +2,7 @@
 
 Проигрыватель видеофайлов с минимальным функционалом.
 
+![image](https://user-images.githubusercontent.com/22379662/187063865-d72b7579-f5b1-4ae8-907a-65240f905791.png)
 
 
 Построен на базе библиотеки [Playable](https://wix.github.io/playable/).
